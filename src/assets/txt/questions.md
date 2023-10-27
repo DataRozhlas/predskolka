@@ -1,0 +1,1 @@
+- kde se vzlo číslo 40 tisíc? dá se to vůbec přesně říct?
