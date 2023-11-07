@@ -1,1 +1,3 @@
-- kde se vzlo číslo 40 tisíc? dá se to vůbec přesně říct?
+- kde se vzalo číslo 40 tisíc? dá se to vůbec přesně říct?
+- jak zvládli adaptaci na děti z Ukrajiny
+- ČŠI - na co se zaměřuje, jaká jsuo nejčastější doporučení?

@@ -1,8 +1,11 @@
 
-## 1. V předškolním vzdělávání chybí dlouhodobě desítky tisíc míst. Proč to tak je a proč je to problém?
+## 1. Kapacita
+
+- v předškolním vzdělávání chybí dlouhodobě desítky tisíc míst
+- odhady se pohybují od 40 tisíc (MŠMT) do 70 tisíc (loňská analýza MPSV)
 
 - [poslední publikovaná 
-analýza](https://www.esfcr.cz/documents/21802/17489737/Anal%C3%BDza+dostupnosti+za%C5%99%C3%ADzen%C3%AD+p%C3%A9%C4%8De+o+d%C4%9Bti+v+p%C5%99ed%C5%A1koln%C3%ADm+v%C4%9Bku/286e5037-e5a4-4b88-a608-e95580f3c412) 
+<!-- analýza](https://www.esfcr.cz/documents/21802/17489737/Anal%C3%BDza+dostupnosti+za%C5%99%C3%ADzen%C3%AD+p%C3%A9%C4%8De+o+d%C4%9Bti+v+p%C5%99ed%C5%A1koln%C3%ADm+v%C4%9Bku/286e5037-e5a4-4b88-a608-e95580f3c412)  -->
 je na základě dat z roku 2021
 - novější data ministerstvo nezpracovalo, základní přehled lze získat ze [školského rejstříku](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00022985%2F63989c80e16fc31c77e23ab529c76b52)
 - [data o školách od České školní inspekce](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00638994%2F2b57365cbe34d8ab4041b796c0ec4186)
