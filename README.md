@@ -1,27 +1,7 @@
-# React + TypeScript + Vite
+## Grafy pro seriál článků o předškolní výchově
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- [Místa ve školkách jsou, ale ne tam, kde žijí rodiny. Rodiče potřebují desítky tisíc dalších, přibývají stovky](https://www.irozhlas.cz/zpravy-domov/mista-ve-skolkach-jsou-ale-ne-tam-kde-ziji-rodiny-rodice-potrebuji-desitky-tisic_2311270500_pek)
+- [Když nemáte školku, vrazte tam dětskou skupinu. Nedostatek míst nahrává alternativám](https://www.irozhlas.cz/zpravy-domov/skolky-detske-skupiny_2311280600_pek)
+- [Státní jesle i dotované chůvy od tří měsíců. Matky ve Francii ctí pravidlo ‚hlavně být sama v pohodě‘](https://www.irozhlas.cz/zpravy-svet/jesle-skolky-materska-rodicovska-francie_2311290600_pek)
+- [Školky proti chudobě. Jak se v Obrnicích daří přehodit výhybku od sociálních problémů k prosperitě](https://www.irozhlas.cz/zpravy-domov/skolky-nerovnosti_2311300700_pek)
+- [Jak zvýšit kapacitu školek? Střídat děti během týdne, nabírat i jindy než 1. září, omezit odklady docházky](https://www.irozhlas.cz/zpravy-domov/skolky-kapacita-reseni_2312010645_pek)
